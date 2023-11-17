@@ -1,0 +1,14 @@
+body{
+    font-size: 40px;
+    margin-left: 100px;
+}
+#textBox{
+    padding: 5px;
+
+    
+}
+#submitButton{
+    padding: 3px;
+    border: 1px solid black;
+    margin-top: 15px;
+}
